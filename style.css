@@ -61,6 +61,12 @@ a:hover {
   -webkit-column-count: 4;
   column-count:         4;
   }
+  .header {
+	margin: 20px 0px -10px 20px;
+	width:  75%px;
+	display: inline-block;
+	padding-bottom: 30px
+}
 }
 @media (max-width: 1000px) {
   .images {
@@ -68,6 +74,12 @@ a:hover {
   -webkit-column-count: 3;
   column-count:         3;
   }
+    .header {
+	margin: 20px 0px -10px 20px;
+	width:  75%px;
+	display: inline-block;
+	padding-bottom: 30px
+}
 }
 @media (max-width: 800px) {
   .images {
@@ -75,6 +87,12 @@ a:hover {
   -webkit-column-count: 2;
   column-count:         2;
   }
+    .header {
+	margin: 20px 0px -10px 20px;
+	width:  75%px;
+	display: inline-block;
+	padding-bottom: 30px
+}
 }
 @media (max-width: 400px) {
   .images {
@@ -82,4 +100,10 @@ a:hover {
   -webkit-column-count: 1;
   column-count:         1;
   }
+    .header {
+	margin: 20px 0px -10px 20px;
+	width:  75%px;
+	display: inline-block;
+	padding-bottom: 30px
+}
 }
